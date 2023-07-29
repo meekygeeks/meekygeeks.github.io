@@ -21,7 +21,9 @@
 title: Meeky Geeks 
 email: meekygeeks@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  bringing computer science concepts closer to people 
+  Bringing computer science concepts closer to people
+  This is the perfect spot for college students eager to conquer computer science and rock placements!
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://meekygeeks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meekygeeks
